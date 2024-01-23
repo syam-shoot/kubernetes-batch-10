@@ -1,0 +1,7 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: backoffice-app
+data:
+  app_name: backoffice-app-svc
+  app_version: v1.0
