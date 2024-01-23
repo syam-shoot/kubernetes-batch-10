@@ -5,3 +5,4 @@ namespace: backoffice
 resources:
   - namespace.yaml
   - backoffice-app
+  - backoffice-internal
