@@ -5,3 +5,4 @@ namespace: monitoring
 resources:
   - ../../../../module/helm-repository/grafana.yaml
   - namespace.yaml
+  - grafana
